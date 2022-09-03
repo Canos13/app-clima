@@ -1,0 +1,29 @@
+.mainInfo{
+    background:#fff;
+    padding: 40px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    height: 100%;
+}
+
+.ciudad{
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.pais{
+    font-size: 20px;
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+    font-size: 18px;
+}
+
+.load{
+    text-align: center;
+    font-size: 18px;
+    color: #fff;
+}
