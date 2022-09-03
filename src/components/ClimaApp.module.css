@@ -3,3 +3,17 @@
     height: 350px;
     margin: 50px auto;
 }
+
+@media (max-width:385px){
+    .climaContainer{
+        width: 85%;      
+    }
+    
+}
+
+@media (max-width:271px){
+    .climaContainer{
+        height: 390px;     
+    }
+    
+}
